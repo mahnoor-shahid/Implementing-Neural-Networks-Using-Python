@@ -4,7 +4,7 @@ This project consists of python files that are provided in parts as well as the 
 
 # Purpose
 
-> Primarily to understand the core concepts of Neural Networks and the intuition behind the different Deep leraning frameworks implementing Neural Networks and providing us the built in features.
+> Primarily to understand the core concepts and intuition behind Neural Networks and to understand how different Deep learning frameworks works and how neural networks are implemented using the built in features.
 
 # Prerequisites
  - Python Intermediate
