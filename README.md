@@ -11,10 +11,14 @@ This project consists of python files that are provided in parts as well as the 
  - Numpy Package Hands-On
  - Basic Coding Hands-On
  - Object Oriented Concepts
- - Deep Learning / Neural Networks Knowledge
+ - Basic Deep Learning / Neural Networks Knowledge
   
 # Tools
 Files can be opened using any tool that supports the .ipynb format. For example, Jupyter Notebook or PyCharm.
+
+# Versions
+Python 3.7
+Numpy 
 
  # Files Included
  Following is the list of files included in this project:
