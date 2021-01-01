@@ -10,6 +10,7 @@ This project consists of python files that are provided in parts as well as the 
  - Python Intermediate
  - Numpy Package Hands-On
  - Basic Coding Hands-On
+ - Object Oriented Concepts
  - Deep Learning / Neural Networks Knowledge
   
 # Tools
