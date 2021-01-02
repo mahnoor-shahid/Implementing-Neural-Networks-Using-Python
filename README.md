@@ -17,8 +17,9 @@ This project consists of python files that are provided in parts as well as the 
 Files can be opened using any tool that supports the .ipynb format. For example, Jupyter Notebook or PyCharm.
 
 # Versions
-Python 3.7
-Numpy 
+Python 3.7.3
+Numpy 1.16.2
+Matplotlib 3.0.3
 
  # Files Included
  Following is the list of files included in this project:
