@@ -2,7 +2,7 @@ import numpy as np
 
 ########## setting up data ##########
 inputs = np.array([1.0, 2.0])
-weights = np.array([[1.0, 2.0], [2.0, 4.0], [1.5, -1.5]])
+weights = np.array([[1.0, 2.0], [2.0, 4.0], [1.5, -1.5]]) # 3 neurons in 1 layer
 single_bias = 2.0
 
 ########## output values of each neuron in the layer ##########
