@@ -23,4 +23,3 @@ Matplotlib 3.0.3
  
  # Submitted By
  **Mahnoor Shahid** - Initial work
- - Linkedin Profile - https://www.linkedin.com/in/mahnoor-v20399/
